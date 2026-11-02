@@ -1,0 +1,6 @@
+{
+  "name": "AERO: 2026 Neo Arcade",
+  "description": "Ultra-wide horizontal 2026 arcade flight game with progressive difficulty across Ascent, Catalyst, and Singularity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
